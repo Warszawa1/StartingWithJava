@@ -7,6 +7,7 @@ Why Java?
 - It is "easy" to learn. My previous languages have been Python and Javascript. I will be 
   able to confirm or not this statement in a few months.
 
+*****
 
 04.06.2023
 // Intro, How Java Made Portable (WORA), Main method, Statically vs Dynamically typed.
