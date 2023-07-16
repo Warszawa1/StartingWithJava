@@ -19,14 +19,14 @@ Why Java?
 // Data types, Type casting, Identifiers, Naming convention, Operators
    
    Primitive data types:
-   byte  ->   1 byte
-   char  ->   2 bytes
-   short ->   2 bytes
-   int   ->   4 bytes
-   float ->   4 bytes
-   double ->  8 bytes
-   long  ->   8 bytes
-   boolean -> true or false 
+   *byte  ->   1 byte
+   *char  ->   2 bytes
+   *short ->   2 bytes
+   *int   ->   4 bytes
+   *float ->   4 bytes
+   *double ->  8 bytes
+   *long  ->   8 bytes
+   *boolean -> true or false 
    -------------------------------------------------------------------------
    
    Implicit and explicit type casting:
@@ -94,3 +94,35 @@ public class Launch2 {
             }
             System.out.print("   ");
 }
+
+17.06.2023
+
+//
+
+
+
+18.06.2023
+
+//
+
+
+
+24.06.2023
+
+//
+
+
+
+25.06.2023
+
+//
+
+
+01.07/2023
+
+//
+
+
+02.07.2023
+
+//
